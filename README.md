@@ -1,4 +1,4 @@
-<h5> 📌 Este repositório tem como objetivo armazenar os exercícios estudados durante os <strong> Treinamentos de Calouros para a Competição InterFatecs </strong>, representando a <strong> Fatec Antônio Russo </strong> . Aqui, você encontrará desafios resolvidos, exemplos práticos e materiais de apoio para aprimorar as habilidades em programação competitiva. </h5>
+<h4> 📌 Este repositório tem como objetivo armazenar os exercícios estudados durante os <strong> Treinamentos de Calouros para a Competição InterFatecs </strong>, representando a <strong> Fatec Antônio Russo </strong> . Aqui, você encontrará desafios resolvidos, exemplos práticos e materiais de apoio para aprimorar as habilidades em programação competitiva. </h4>
 
 💻 Linguagem Utilizada
   * Python 3 (Linguagem principal utilizada nos treinamentos e competições)
